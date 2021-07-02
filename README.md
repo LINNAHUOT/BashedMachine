@@ -1,4 +1,5 @@
 # BashedMachine
 user.txt
 root.txt
-https://www.hackthebox.eu/
+#Hack The Box
+[join hackthebox]https://www.hackthebox.eu/
