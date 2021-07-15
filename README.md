@@ -9,10 +9,10 @@ root.txt
 # Q&A
 ### target: find below info of salacyber.com
 
-*ip address
+* ip address
 
-*server location
+* server location
 
-*domain name information
+* domain name information
 
-*subdomain gathering
+* subdomain gathering
